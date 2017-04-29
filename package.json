@@ -10,7 +10,7 @@
   ],
   "devDependencies": {
     "test-jstransformer": "^1.0.0",
-    "xo": "^0.17.1"
+    "xo": "^0.18.1"
   },
   "scripts": {
     "coverage": "test-jstransformer coverage",
@@ -30,7 +30,7 @@
   },
   "license": "MIT",
   "dependencies": {
-    "reshape": "^0.3.2",
-    "sugarml": "^0.4.0"
+    "reshape": "^0.4.1",
+    "sugarml": "^0.5.0"
   }
 }
