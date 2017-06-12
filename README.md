@@ -12,8 +12,6 @@
 
     npm install jstransformer-sugarml
 
-> **Note:** SugarML requires node v6 or above.
-
 ## API
 
 ```js

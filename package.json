@@ -1,10 +1,11 @@
 {
   "dependencies": {
-    "reshape": "^0.3.2",
-    "sugarml": "^0.4.0"
+    "extend-shallow": "^2.0.1",
+    "reshape": "^0.4.1",
+    "sugarml": "^0.5.0"
   },
   "name": "jstransformer-sugarml",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "SugarML support for JSTransformers.",
   "keywords": [
     "jstransformer"
