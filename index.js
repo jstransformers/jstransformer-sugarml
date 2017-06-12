@@ -1,10 +1,10 @@
 'use strict'
 
-var reshape = require('reshape')
-var sugarml = require('sugarml')
+const reshape = require('reshape')
+const sugarml = require('sugarml')
 
 exports.name = 'sugarml'
-exports.inputFormats = ['sml']
+exports.inputFormats = ['sml', 'sugarml']
 exports.outputFormat = 'html'
 
 exports.renderAsync = function (str, options, locals) {
