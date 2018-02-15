@@ -15,7 +15,7 @@
 ## API
 
 ```js
-var sugarml = require('jstransformer')(require('jstransformer-sugarml'));
+var sugarml = require('jstransformer')(require('jstransformer-sugarml'))
 
 sugarml.render('h1 hi').body
 //=> '<h1>hi</h1>'
