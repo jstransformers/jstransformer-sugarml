@@ -1,5 +1,7 @@
 # jstransformer-sugarml
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/jstransformers/jstransformer-sugarml.svg)](https://greenkeeper.io/)
+
 [SugarML](https://github.com/reshape/sugarml) support for [JSTransformers](http://github.com/jstransformers).
 
 [![Build Status](https://img.shields.io/travis/jstransformers/jstransformer-sugarml/master.svg)](https://travis-ci.org/jstransformers/jstransformer-sugarml)
