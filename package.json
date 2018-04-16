@@ -1,6 +1,11 @@
 {
+  "dependencies": {
+    "extend-shallow": "^3.0.2",
+    "reshape": "^0.4.1",
+    "sugarml": "^0.6.0"
+  },
   "name": "jstransformer-sugarml",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "SugarML support for JSTransformers.",
   "keywords": [
     "jstransformer"
@@ -10,12 +15,12 @@
   ],
   "devDependencies": {
     "test-jstransformer": "^1.0.0",
-    "xo": "^0.18.1"
+    "xo": "*"
   },
   "scripts": {
     "coverage": "test-jstransformer coverage",
     "test": "test-jstransformer",
-    "posttest": "xo --space --no-semicolon index.js"
+    "posttest": "xo --space=2 --no-semicolon index.js"
   },
   "engines": {
     "node": ">=6"
@@ -28,9 +33,5 @@
     "name": "JSTransformers Team",
     "url": "http://github.com/orgs/jstransformers/people"
   },
-  "license": "MIT",
-  "dependencies": {
-    "reshape": "^0.4.1",
-    "sugarml": "^0.5.0"
-  }
+  "license": "MIT"
 }
