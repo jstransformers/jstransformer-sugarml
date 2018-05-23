@@ -1,7 +1,7 @@
 {
   "dependencies": {
     "extend-shallow": "^3.0.2",
-    "reshape": "^0.4.1",
+    "reshape": "^0.5.0",
     "sugarml": "^0.6.0"
   },
   "name": "jstransformer-sugarml",
